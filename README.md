@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Hi,  I’m Murilo<br>🔭 I’m currently learning: C#<br>🌱 I live in Brazil
+💬 Hi,  I’m Murilo<br>🔭 I’m currently learning: C#<br>
 
 
 ## 🌐 Socials:
