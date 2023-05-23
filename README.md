@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Hi,  I’m Murilo<br>🔭 I’m currently learning: C#<br> and Java<br>
+💬 Hi,  I’m Murilo<br>🔭 I’m currently learning: Java<br>
 
 
 ## 🌐 Socials:
