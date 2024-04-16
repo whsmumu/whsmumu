@@ -8,6 +8,5 @@
 <a href="https://www.linkedin.com/in/murilo-lopes-854a12277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo lopes" height="30" width="40" /></a>
 
 <h2 align="left"> Linguagens e Ferramentas:</h2>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![My Skills](https://skillicons.dev/icons?i=java,postgres)](https://skillicons.dev)
